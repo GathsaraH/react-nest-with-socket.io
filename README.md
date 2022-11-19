@@ -1,1 +1,1 @@
-This is the code for my NestJS Websockets Tutorial. This is the React application that uses [socket.io-client](https://socket.io/docs/v4/client-api/) to connect to a NestJS Websocket Gateway. You can find the code for the Websocket Gateway [here](https://github.com/stuyy/nestjs-websocket-gateway-example).
+## This is for dummy project (for production application) about React / Nest and Socket.io me!
